@@ -1,5 +1,8 @@
-*.tfstate.backup
+*.tfstate
+*.tfstate.*
+*.backup
+crash.log
 .terraform.lock.hcl
 .terraform/
-terraform.exe"*
-.tfstate*"
+terraform.exe
+terraform*
