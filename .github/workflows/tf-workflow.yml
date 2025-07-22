@@ -33,7 +33,7 @@ jobs:
       - uses: hashicorp/setup-terraform@v3
         name: setup-terraform
 
-      # Runs a set of commands using the runners shell
+      # Initializes Terraform, which prepares the working directory for other commands
       - name: terraform-init
         run: terraform init
 
