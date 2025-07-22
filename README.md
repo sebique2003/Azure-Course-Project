@@ -8,7 +8,7 @@ Basic Azure infrastructure deployed with **Terraform**.
 - GitHub Actions
 
 ### 📌 Project Highlights
-- 2x Linux VMs with count
+- 2x Linux VMs
 - Azure networking: VNet, Subnet, NICs, Public IPs
 - Remote ping test between VMs using null_resource
 - GitHub Actions: working with workflows
