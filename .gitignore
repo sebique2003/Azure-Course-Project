@@ -1,5 +1,5 @@
 *.tfstate.backup
 .terraform.lock.hcl
 .terraform/
-terraform.exe"*.
-tfstate*"
+terraform.exe"*
+.tfstate*"
