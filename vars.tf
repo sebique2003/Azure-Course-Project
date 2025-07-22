@@ -7,6 +7,7 @@ variable "subscription_id" {}
 # Variable for the virtual machine name
 variable "vm_username" {
     type        = string
+    default = "iordache09"
 }
 
 variable "vm_password" {}
