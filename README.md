@@ -23,4 +23,4 @@ Basic Azure infrastructure deployed with **Terraform**.
 │   └── workflows/
 │       └── tf-workflow.yml
 ```
-📘 *Created by **Iordache Sebastian-Ionuț** as part of the Azure Foundations Course*
+📘 *Created by **Iordache Sebastian-Ionuț** as part of the Azure Foundations Course - IBM Summer School 2025*
